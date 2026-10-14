@@ -28,9 +28,12 @@ This Power BI dashboard explores aviation accidents and safety trends worldwide.
 
 ## Tech Stack
 * **Tool:** Power BI
-* ** Author**
+* Author:
   Vansham Teotia
-  
 ## How to View
+
 1. Download the `Airplane_Crash_Analysis` file from the `dashboard` folder.
 2. Open the file using Power BI Desktop.
+
+### 📸 Dashboard Preview
+![Dashboard Preview](Dashboard-Overview.png)
